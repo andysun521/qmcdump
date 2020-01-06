@@ -24,3 +24,4 @@ clean:
 
 install: all
 	mv $(target) /usr/local/bin
+qmcdump <input_path> [output_path]
